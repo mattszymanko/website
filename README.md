@@ -12,4 +12,4 @@ If you want to provide feedback or report a bug, simply open a GitHub issue.
 Copyright (c) 2021 Matt Szymanko. Some rights reserved.
 
 # Contact
-You can contact me on Discord or my Steam account. They are both on my website and on my GitHub profile.
+You can contact me on Discord or my E-mail. They are both on my website and on my GitHub profile.
