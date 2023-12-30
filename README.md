@@ -1,3 +1,5 @@
+## ⚠ My website is defunct and discontinued at this time. This may be subject to change at a later date, however.
+
 # My website
 The source code for my [personal website.](http://mattszymanko.cf/)
 
